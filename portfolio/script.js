@@ -9,6 +9,8 @@ if (theme == null) {
 }
 
 
+
+
 let themeDots = document.getElementsByClassName('theme-dot');
 
 for (var i = 0; themeDots.length > i; i++) {
