@@ -1,0 +1,20 @@
+:root {
+    --mainColor: #15202b;
+    --secondaryColor: #192734;
+
+    --borderColor: lightyellow;
+
+    --mainText: white;
+    --secondaryText: #eeeeee;
+
+    --themeDotBorder: #fff;
+
+    --previewBg: rgb(25, 39, 52, 0.8);
+    --previewShadow: #111921;
+
+    --buttonColor: lightblue;
+}
+
+body * {
+    transition: 0.3s;
+}
